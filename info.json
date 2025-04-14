@@ -2,12 +2,12 @@
     "name": "HUBCOIN",
     "website": "",
     "description": "HUBCOIN Token",
-    "explorer": "https://bscscan.com/token/0xA3a041a5DF1568D16206E819ae0E6E04469157C5",
+    "explorer": "https://bscscan.com/token/0xB8d5abd1A8c732F908FD6235889eCD95D5fFA670",
     "type": "BEP20",
     "symbol": "HUB",
     "decimals": 18,
     "status": "active",
-    "id": "0xA3a041a5DF1568D16206E819ae0E6E04469157C5",
+    "id": "0xB8d5abd1A8c732F908FD6235889eCD95D5fFA670",
     "links": [
         {
             "name": "github",
